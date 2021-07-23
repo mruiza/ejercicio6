@@ -1,0 +1,28 @@
+tasks/OpenUp.java
+ tasks.OpenUp
+userinterface/ChoucairAcademyLoginPage.java
+ userinterface.ChoucairAcademyLoginPage
+userinterface/ChoucairAcademyPage.java
+ userinterface.ChoucairAcademyPage
+tasks/Search.java
+ tasks.Search
+userinterface/SearchCoursePage.java
+ userinterface.SearchCoursePage
+questions/Answer.java
+ questions.Answer
+interactions/Select.java
+ interactions.Select
+model/GoogleTraductorModel.java
+ model.GoogleTraductorModel
+userinterface/TraductorGooglePage.java
+ userinterface.TraductorGooglePage
+tasks/Login.java
+ tasks.Login
+tasks/Ingresa.java
+ tasks.Ingresa
+tasks/Traducir.java
+ tasks.Traducir
+userinterface/TraducirPalabraPage.java
+ userinterface.TraducirPalabraPage
+questions/Traduccion.java
+ questions.Traduccion

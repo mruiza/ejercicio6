@@ -1,0 +1,6 @@
+runners/RunnerTags.java
+ runners.RunnerTags
+stepdefinitions/ChoucairAcademyStepDefinitions.java
+ stepdefinitions.ChoucairAcademyStepDefinitions
+stepdefinitions/GoogleTraductorStepDefinitions.java
+ stepdefinitions.GoogleTraductorStepDefinitions
